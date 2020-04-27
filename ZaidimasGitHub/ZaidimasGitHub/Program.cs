@@ -6,12 +6,22 @@ using System.Threading.Tasks;
 
 namespace ZaidimasGitHub
 {
-    interface Zaidimas
+    class Zmog : IZaidimas
     {
-        int ataka { get; set; }
-        int gyvybes { get; set; }
-        string charName { get; set; }
+        public int ataka
+        { get ; set ; }
+        public int gyvybes { get ; set ; }
+        public string charName { get ; set ; }
+
+
+       public void Atakuoti()
+        {
+            Console.WriteLine("Ataka");
+        }
     }
+
+
+
     class Program
     {
         static void Main(string[] args)
