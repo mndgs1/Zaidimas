@@ -1,0 +1,7 @@
+C:\Users\nslau\Documents\GitHub\Zaidimas\ZaidimasGitHub\ZaidimasGitHub\bin\Debug\ZaidimasGitHub.exe.config
+C:\Users\nslau\Documents\GitHub\Zaidimas\ZaidimasGitHub\ZaidimasGitHub\bin\Debug\ZaidimasGitHub.exe
+C:\Users\nslau\Documents\GitHub\Zaidimas\ZaidimasGitHub\ZaidimasGitHub\bin\Debug\ZaidimasGitHub.pdb
+C:\Users\nslau\Documents\GitHub\Zaidimas\ZaidimasGitHub\ZaidimasGitHub\obj\Debug\ZaidimasGitHub.csprojAssemblyReference.cache
+C:\Users\nslau\Documents\GitHub\Zaidimas\ZaidimasGitHub\ZaidimasGitHub\obj\Debug\ZaidimasGitHub.csproj.CoreCompileInputs.cache
+C:\Users\nslau\Documents\GitHub\Zaidimas\ZaidimasGitHub\ZaidimasGitHub\obj\Debug\ZaidimasGitHub.exe
+C:\Users\nslau\Documents\GitHub\Zaidimas\ZaidimasGitHub\ZaidimasGitHub\obj\Debug\ZaidimasGitHub.pdb

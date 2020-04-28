@@ -26,6 +26,8 @@ namespace ZaidimasGitHub
     {
         static void Main(string[] args)
         {
+            Zmog zmogus = new Zmog();
+            zmogus.Atakuoti();
         }
     }
 }
